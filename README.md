@@ -126,3 +126,4 @@ Because it is a Vite app, the production build output is generated in the `dist`
 ## License
 
 This project is for personal portfolio use.
+By Anshu Sahu. All rights reserved.
